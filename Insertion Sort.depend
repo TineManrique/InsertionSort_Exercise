@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1359683923 source:c:\users\public\documents\new folder\insertion sort\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+
+1359687714 source:g:\insertion sort\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+
